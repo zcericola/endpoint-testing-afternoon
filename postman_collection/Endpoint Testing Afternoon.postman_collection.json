@@ -1,8 +1,7 @@
 {
 	"info": {
+		"_postman_id": "c52ede7c-3638-610b-15d0-f3cb39878d10",
 		"name": "Endpoint Testing Afternoon",
-		"_postman_id": "e51be2b4-157e-e958-cc69-98d89cb8c491",
-		"description": "",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -137,8 +136,7 @@
 					"query": [
 						{
 							"key": "firstName",
-							"value": "t",
-							"equals": true
+							"value": "t"
 						}
 					]
 				}
@@ -177,8 +175,7 @@
 					"query": [
 						{
 							"key": "citty",
-							"value": "new york",
-							"equals": true
+							"value": "new york"
 						}
 					]
 				}
